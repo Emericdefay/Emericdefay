@@ -4,11 +4,7 @@
   Hello there, I'm Emeric Defay
 </h3>
 <h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/emericdefay/" title="LinkedIn Profile"><img width="22" src="https://github.com/emericdefay/emericdefay/blob/main/images/linkedin.svg"> LinkedIn</a>
-  </code>
-  <code>
-    <a href="https://stackoverflow.com/users/15695135/emeric-d" title="Stack Overflow Profile"><img width="22" src="https://github.com/emericdefay/emericdefay/blob/main/images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.linkedin.com/in/emericdefay/" title="LinkedIn Profile"><img width="22" src="https://github.com/emericdefay/emericdefay/blob/main/images/linkedin.svg"/> LinkedIn</a></code> <code><a href="https://stackoverflow.com/users/15695135/emeric-d" title="Stack Overflow Profile"><img width="22" src="https://github.com/emericdefay/emericdefay/blob/main/images/stackoverflow.svg"> Stack Overflow</a></code>
 </h5>
 <br>
 <p align="center">
