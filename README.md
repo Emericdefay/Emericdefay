@@ -61,24 +61,7 @@
   </a>
 </p>
 <hr>
-<h2 align="center">Repositories</h2>
-<p width="100%" align="center">
-  <a align="left" href="https://github.com/Emericdefay/OCR_P9" title="OCR - Project 9">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=emericdefay&repo=OCR_P9&theme=gotham"></a>
-  <a align="right" href="https://github.com/Emericdefay/OCR_P6" title="OCR - Projet 6">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=emericdefay&repo=OCR_P6&theme=gotham"></a>
-</p>
-<br><br>
-<p width="100%" align="center">
-  <a align="left" href="https://github.com/emericdefay/Scripts-keyboard" title="Personnal keyboard's scripts"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=emericdefay&repo=Scripts-keyboard&theme=gotham"></a>
-  <a align="right" href="https://github.com/emericdefay/MVChess" title="OCR - Projet 4"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=emericdefay&repo=MVChess&theme=gotham"></a>
-</p>
-<br><br>
-<p width="100%" align="center">
-  <a align="left" href="https://github.com/emericdefay/MAS-to-MBS" title="First Python program reading MIDI"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=emericdefay&repo=MAS-to-MBS&theme=gotham"></a>
-  <a align="right" href="https://github.com/emericdefay/OCR_Train_Snake" title="Train POO with Snake"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=emericdefay&repo=OCR_Train_Snake&theme=gotham"></a>
-</p>
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 <h4 align="center">
   <a href="https://github.com/emericdefay?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
